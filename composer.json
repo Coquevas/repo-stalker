@@ -1,0 +1,17 @@
+{
+    "name": "coquevas/repo-stalker",
+    "description": "Retrieves a list of GitHub users that stared or forked a repo, sorted by their repos popularity on the same language",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Vas",
+            "email": "coquevas@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "nategood/httpful": "*",
+        "guiguiboy/php-cli-progress-bar": "dev-master"
+    }
+}
