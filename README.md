@@ -7,5 +7,5 @@ Retrieves a list of GitHub users that stared or forked a repo, sorted by their r
 
 ### Usage
 ```
-$ ./repo-stalker
+$ ./repo-stalker.php
 ```
